@@ -4,7 +4,12 @@
       "label": "h.264 HD",
       "file_url": "https://archive.org/download/coitx-Inside_the_Movies_-_Shang-Chi_and_the_Legend_of_the_Ten_Rings/Inside_the_Movies_-_Shang-Chi_and_the_Legend_of_the_Ten_Rings.HD.mov",
       "duration": 280.45,
-      "file_type": "Video"
+      "file_type": "Video",
+      "caption_set": [
+        {
+          "annotation_page_id": "f17322b5-5eef-442e-a4d9-195efe6c9081"
+        }
+      ]
     }
   },
   "auto_generate_web_page": true,
@@ -21,7 +26,10 @@
   "created_at": "2025-11-07T21:55:45.648Z",
   "created_by": "absempere",
   "label": "Inside_the_Movies_-_Shang-Chi_and_the_Legend_of_the_Ten_Rings.HD",
-  "updated_at": "2025-11-07T21:55:45.648Z",
+  "updated_at": "2025-11-07T21:57:35.670Z",
   "updated_by": "absempere",
-  "rights_statement": ""
+  "rights_statement": "",
+  "av_file_order": [
+    "d128de1b-c6a6-4919-ab49-b80fa305ee46"
+  ]
 }
