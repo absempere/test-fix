@@ -1,0 +1,45 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "cruz-test",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "cruz-test-2",
+  "created_at": "2025-11-13T15:14:30.352Z",
+  "created_by": "absempere",
+  "updated_at": "2025-11-13T15:14:30.352Z",
+  "updated_by": "absempere"
+}
