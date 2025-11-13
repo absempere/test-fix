@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "la",
+  "annotations": [
+    {
+      "uuid": "7a8597e1-190c-4305-895b-f8b9f15c34a7",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald BUCINUM imperium scriptor record-funded favorem et defensionem meditatum paternitatis "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "64309364-3910-40da-9a99-84b779507b84",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " sollicitudin et metus advenae nostra Jobs "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a0a01f71-0f86-4f4b-9974-532dc1e07742",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " salsissimus vir vivens agitatores, qui quaerit de nobis et in steelworkers "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "082c1a1b-8600-4511-aece-7278180b63e1",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ne dum illorum mechanici pretium vitae pretium ut ascendat "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "383c594e-b1f4-4293-942a-0538889b9056",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Praeses "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3d09a0fc-ffa5-417a-9c73-cffbb6023823",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Et transibit in Obamacare pullbacks regulators est simplex et plana publicanus "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "50144206-cbca-4209-85bc-ad0131675aad",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " IRS tollere super nos vere amet enim videre occasionem Ted Cruz "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5e28615d-e1df-48a5-a489-711a9dc9b671",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Ted Cruz ego approbo, et hoc nostrum Jobs "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

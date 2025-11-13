@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "pl",
+  "annotations": [
+    {
+      "uuid": "1f4c65b3-4fed-453e-a7f2-ee2bc8ec52b0",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Wsparcie rekord Donald Trump i bronić Planned Parenthood rządowy "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b2dc4774-4160-4fb2-b1b7-23e55eb9eda2",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " opieki zdrowotnej pozwalają nielegalnych cudzoziemców wziąć nasze miejsca pracy "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8f761e97-605c-4910-9c3e-b5f6b6d73a94",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kto spogląda na nas, kierowców ciężarówek i hutników w "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e6b795d1-e820-4daf-8ef7-f5d120cc1c44",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Mechanika widzieliśmy ich płace nie rosną, podczas gdy koszty utrzymania, jak idzie w górę "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8a5d33c2-ef61-4f91-b9ce-374974f27ec6",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " prezydent "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "61b7c27f-9cbd-4ccd-9c3f-e32dd292a900",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare na pullbacks regulatorów i przejdzie prostą i podatek liniowy "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "60284bcf-ea0c-4661-bc78-ec9acbeace95",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " zniesienie IRS naprawdę dzieje Będziemy widzieć możliwość Ted Cruz "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "dff30815-0477-4ed5-b4ef-3c472ff740b4",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " nasza praca jestem Ted Cruz i zatwierdzić tę wiadomość "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

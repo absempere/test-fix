@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "vi",
+  "annotations": [
+    {
+      "uuid": "dfa306fd-d50a-4212-a7fb-a5da2653ff83",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " hỗ trợ kỷ lục Donald Trump và bảo vệ Planned Parenthood của chính phủ tài trợ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f8a25b50-d76b-4c7f-a193-c2fede60ea19",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " chăm sóc sức khỏe để cho người ngoài hành tinh bất hợp pháp lấy mất việc làm của chúng tôi "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2235e79f-c419-4802-97cb-51991e340cca",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ai tìm ra cho chúng ta những lái xe tải và các thợ trong "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0adf6fb7-7bfd-4544-ba55-992b8051dca5",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " cơ khí đã thấy tiền lương của họ không phát triển trong khi chi phí sinh hoạt tăng lên như "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2fd4a78a-f8c3-472f-81d5-1f0bd3fb904c",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " chủ tịch "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bdf77e40-de17-489d-8437-cb6e131bf688",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare trên pullbacks các nhà quản lý và chúng tôi sẽ vượt qua một thuế phẳng đơn giản và "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "869f29da-5853-40be-b814-aeb068ec6b34",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " bãi bỏ IRS thực sự xảy ra chúng ta sẽ thấy một cơ hội Ted Cruz "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "13feeae9-8941-404f-b00d-51f61969102d",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " công việc của chúng tôi tôi là Ted Cruz và tôi chấp nhận bài viết này "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

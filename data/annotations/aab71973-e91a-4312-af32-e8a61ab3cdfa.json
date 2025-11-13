@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "pa",
+  "annotations": [
+    {
+      "uuid": "f10aeb09-b8e5-4f59-bbb1-0b2e435153bc",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ਡੋਨਾਲਡ ਟਰੰਪ ਦੇ ਰਿਕਾਰਡ ਨੂੰ ਸਹਿਯੋਗ ਅਤੇ ਬਚਾਅ ਯੋਜਨਾ ਬਾਪ ਦੀ ਸਰਕਾਰ-ਫੰਡ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5211dbfe-620d-45a1-b7f2-1dbb73785350",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ਸਿਹਤ ਸੰਭਾਲ ਗੈਰ ਕਾਨੂੰਨੀ ਪਰਦੇਸੀ ਸਾਡੇ ਕੰਮ ਨੂੰ ਲੈ ਦਿਉ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2b927051-5711-433c-baaa-605fce1dd64f",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ਜੋ ਸਾਡੇ ਲਈ ਵਿੱਚ ਟਰੱਕ ਡਰਾਈਵਰ ਅਤੇ steelworkers ਬਾਹਰ ਤਲਾਸ਼ ਹੈ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d460247b-ce9b-4434-a80c-b486b34fee67",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ਮਕੈਨਿਕ ਵਧਣ ਨਾ ਆਪਣੇ ਤਨਖਾਹ ਨੂੰ ਵੇਖਿਆ ਹੈ, ਜਦਕਿ ਰਹਿਣ ਦੀ ਲਾਗਤ ਦੇ ਰੂਪ ਵਿੱਚ ਵੱਧਦਾ ਹੈ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2132803d-50dc-4c5c-90ca-ce735153399c",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ਦੇ ਪ੍ਰਧਾਨ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0afbe60d-98db-4912-b0ce-54c4215142d0",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare 'ਤੇ pullbacks ਰੈਗੂਲੇਟਰ ਅਤੇ ਸਾਨੂੰ ਇੱਕ ਸਧਾਰਨ ਫਲੈਟ ਟੈਕਸ ਪਾਸ ਜਾਵੇਗਾ ਅਤੇ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9c29759e-84ff-4191-b745-45964e7b84b1",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " IRS ਅਸਲ ਮੌਕਾ ਟੇਡ ਕਰੂਜ਼ ਲਈ ਸਾਕਾਰ ਹੋ ਸਾਡੇ 'ਤੇ ਜਾ ਰਿਹਾ ਖਤਮ ਨੂੰ ਵੇਖਣ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a37c7099-f948-4133-bf7f-a2b5d6d66bce",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ਸਾਡੇ ਕੰਮ ਨੂੰ ਮੈਨੂੰ ਟੇਡ ਕਰੂਜ਼ ਰਿਹਾ ਹੈ ਅਤੇ ਮੈਨੂੰ ਇਹ ਸੁਨੇਹਾ ਮਨਜ਼ੂਰੀ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "nl",
+  "annotations": [
+    {
+      "uuid": "6c290655-21e3-4013-8b82-b994e8ea2ad8",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump's record ondersteunen en verdedigen Planned Parenthood de regering gefinancierde "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1f8ba2fb-0a82-4dc2-a3e7-afaf8e973eec",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " gezondheidszorg laat illegalen nemen onze banen "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7625b4aa-eb96-43e2-af1e-b5f9c8d9236c",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " die op zoek is voor ons de vrachtwagenchauffeurs en de staalarbeiders in de "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3703c6ce-097c-4c5b-badf-6c5ffc485b06",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " monteurs hebben hun lonen niet groeien gezien, terwijl de kosten van levensonderhoud omhoog gaat als "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "779c113d-1ad9-4daa-b2a5-d246447d59bb",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " president "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ab15d003-0684-40ca-8e93-ddb43205e8d6",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare op pullbacks de toezichthouders en we zullen een eenvoudige vlaktaks passeren en "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "499283a6-0414-4206-979c-357db59923cf",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Schaf IRS werkelijk aan de hand we gaan zien een kans Ted Cruz voor "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "81fcda31-fd98-42c2-9004-5f9cd8678f07",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " onze banen Ik ben Ted Cruz en ik keur dit bericht "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

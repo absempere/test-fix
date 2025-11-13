@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "haw",
+  "annotations": [
+    {
+      "uuid": "e478a123-c2c9-48f6-ad4d-965591520f48",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald pu ka moolelo kākoʻo, ae pale aku? Oaony Parenthood ke aupuni-hoʻolako ' "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3e3cf201-5830-48f2-82e9-42338ac09267",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ola mālama, e kue malihini i ko kakou hana "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "291ea560-ec87-49f8-b929-77aa1717cc20",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " i Ka imi aku no makou i ka kalaka Keaukaha, a me na steelworkers ma ka "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "54fee917-d2c8-4bc7-a80b-b64f4e46928b",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Ua ike mechanics i ulu i ko lakou uku oiai o ka lilo o ke ola e ae e like me "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "679ebafa-6ef2-4f2b-82d1-a64a611d78a0",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " peresidena "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bc8b5491-41d3-490a-968e-9f853fbdd58d",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare ma pullbacks na regulators a makou e kekahi i ka mea i lalo auhau, a me "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "36452dd7-f171-4013-9b36-3b3e68241f38",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " hoopau i ka IRS maoli ana maluna o kakou huli gonna ike ka manawa Ted Cruz no ka mea, "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "47be9c88-2071-4cdc-99c9-ca8caa0d673b",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ko kakou jobs in I Ka Nani Ted Cruz, a I apono i keia memo "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "te",
+  "annotations": [
+    {
+      "uuid": "9d6c6f3e-1b39-43f5-85ed-8fae49190ba9",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " డోనాల్డ్ ట్రంప్ యొక్క రికార్డు మద్దతు మరియు రక్షించడానికి ప్రణాళిక పేరెంట్హుడ్ ప్రభుత్వం నిధులతో "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "91ba9cde-ce6c-496b-8df4-2a085ce197f2",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ఆరోగ్య సంరక్షణ అక్రమ విదేశీయులు మా ఉద్యోగాలు తీసుకుందాం "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2e198f50-8d2e-4eb9-a9e2-cd165ac3bec3",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ఎవరు లో ట్రక్ డ్రైవర్లు మరియు ఉక్కు మాకు కొరకు ఆరాటపడుతుంది "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "edc9c159-717e-455d-94c6-c1af942a9203",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " వంటి వెళ్లక జీవన వ్యయం అయితే మెకానిక్స్ వారి వేతనాలు పెరగవు చూసిన "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "67372231-ae81-478b-9512-ac091909b685",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " అధ్యక్షుడు "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "501e545c-1949-4a21-864d-813535589992",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " pullbacks నియంత్రకాలు న Obamacare మరియు మేము ఒక సాధారణ, చదునైన పన్ను పాస్ మరియు "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a7fdf150-e900-4861-a2a6-f00306e3b0fe",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ఐఆర్ఎస్ నిజంగా అవకాశం కోసం టెడ్ క్రజ్ మేము వెళుతున్న రద్దుచేయండి గొన్న చేస్తున్నారు చూడండి "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cedef743-01ae-444c-bcdb-f050837dff22",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " మా ఉద్యోగాలు నేను టెడ్ క్రజ్ ఉన్నాను నేను ఈ సందేశాన్ని అంగీకరించవచ్చు "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "sd",
+  "annotations": [
+    {
+      "uuid": "553556c6-fce2-4d0c-98a0-fe7c43cb6c43",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald ڍانچي جي رڪارڊ جي حمايت ۽ دفاع رٿ رٿي Parenthood جي حڪومت-جي بدولت "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "76873071-9e52-4ad4-b491-a7c8ecb51f90",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " صحت جي سنڀال جي غير قانوني aliens اسان نوڪريون وٺي هلون "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "479a5064-af26-4333-b845-357e5bd8d38c",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " جيڪي اسان جي لاء ۾ ٽرڪ ڊرائيور ۽ steelworkers ٻاهر ڏسي رهيو آهي "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a50d42e7-d5e8-487e-a8a8-7d3c368f5ea2",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mechanics ڏٺو آهي، جڏهن ته ڪينجهر جي قيمت طور کنيو وڃي سندن اجر سٺا نه "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1dbf131e-9528-4a7a-aca2-34fb72d63847",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " صدر آصف علي زرداري "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bcabb714-6943-428a-b1fd-c4e4d13f5d57",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " pullbacks جي regulators تي Obamacare ۽ اسان کي هڪ سادي لوڻ ٽيڪس نڪري ويندي ۽ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "07e664c7-4d78-4932-bf12-a3be35949bac",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " جو خاتمو جي IRS حقيقت اسان تي وڃڻ لاء هڪ موقعو ٽيڊ Cruz ڏسڻ ڪجه ڪري رهيا آهيو "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "09249ad2-d8dc-434b-9085-ad21c90fa61c",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " اسان جي نوڪريء ۾ مون کي ٽيڊ Cruz آهيان ۽ مون کي هن پيغام کي منظور "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

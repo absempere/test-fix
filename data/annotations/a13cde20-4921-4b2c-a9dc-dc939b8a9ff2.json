@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "fy",
+  "annotations": [
+    {
+      "uuid": "f2beb6a3-a955-4b26-aab2-a5528c587898",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump fan rekôr stipe en ferdigenjen Plannen Parenthood syn regear-finansiere "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "814382fa-4f02-458a-bc1a-dc86866d4b66",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " sûnenssoarch lit yllegale frjemdlingen nimme ús banen "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "85054eb0-606c-48ab-a11c-de38eae5db99",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " wa't siket út foar ús de truck bestjoerders en de steelworkers yn 'e "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cbcb2f94-8674-4c7f-932f-f12d5ac545e5",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " meganika hawwe sjoen hjar lean net groeie wylst de kosten fan libbensûnderhâld giet omheech as "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "21d08450-8c4e-438e-b7a5-e3913b16ec9a",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " presidint "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "58575e3d-af85-4caf-9698-bda6c0ae8603",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare op pullbacks de tafersjochhâlders en sille wy lâns in ienfâldige flat belesting en "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9faa0c24-5566-42c4-aeb9-153cba744d13",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ôfskaffe de belestingtsjinst echt gean op wy gonna sjogge in kâns Ted Cruz foar "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "48146593-4cd9-4181-bdb7-93be43c0a05c",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ús banen Ik bin Ted Cruz en ik goedkarre dit berjocht "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

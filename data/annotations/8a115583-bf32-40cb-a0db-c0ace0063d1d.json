@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "gd",
+  "annotations": [
+    {
+      "uuid": "86a16d92-cd6c-4386-b586-cdf61489573e",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Dòmhnall Trump a 'chlàr taic agus dìon Planned Pàrantachd a mhaoineachadh leis an riaghaltas "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8e5eca8d-fb41-497d-ba7a-dda20a29d71e",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mì-laghail cùram slàinte leig uilebheistean a 'ghabhail ar obraichean "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "aa8deeaa-e621-4c1b-8319-fac65fcf3504",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " a tha a 'coimhead a-mach air ar son an làraidh draibhearan agus Luchd Obrach na Stàilinn ann an "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "284c3c2a-7848-48e3-bb6f-da2b6b174372",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " meacanaigean, a chunnaic an tuarastal aca nach eil a 'fàs fhad' sa tha cosgais bith-beò a 'dol suas mar "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6e5c0bda-ebce-4941-9b69-1f9edc31086a",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ceann-suidhe "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4b8bd17a-4e8e-486e-9044-19776b445fa1",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare air pullbacks an luchd-riaghlaidh agus bidh sinn a 'dol seachad sìmplidh flat cìse agus "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "99d34ae3-0ac6-4c71-ba83-98f1dd9fcb3e",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " cur às do IRS dha-rìribh a 'dol air gonna tha sinn a' faicinn cothrom Ted Cruz airson "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5e376726-69b6-42b6-88cd-79514f614f65",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ar n-obraichean mi Ted Cruz agus tha mi aonta a chur ris an teachdaireachd seo "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

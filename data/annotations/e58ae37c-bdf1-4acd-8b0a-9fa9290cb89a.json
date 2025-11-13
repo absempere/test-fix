@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "so",
+  "annotations": [
+    {
+      "uuid": "cc4d2bfc-9d80-4265-a322-fc41ddddcbe8",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " taageero rikoor Donald Trump, una difaaco Planned Parenthood ee dowladda ay maal-galiso "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c2f7bb5d-5b36-4b93-8938-405916d24863",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " daryeelka caafimaadka ha shisheeyaha sharci-darrada ah qaadan shaqooyinkeenna "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8fced8e6-689e-42b1-9256-bc379b0cf12d",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kuwaas oo uu raadinayaa noo darawaliinta baabuurta waaweyn iyo steelworkers ee "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6425a1f8-6d20-4663-930e-76d12269cc7e",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Farsamoyaqaan aragnay mushaharka aan korin halka qarashka maciishadda kor u kaco sida "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a9012e23-2800-4e0f-80e4-00824a664ee6",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Madaxweynaha "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f4822b98-77e3-4008-8634-dbf6cbf33e2f",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare on pullbacks nidaamiyo, waxaana mari doonaa canshuurta fudud guri iyo "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bc563955-d945-478e-b927-0a4aad1c0b5f",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " joojin IRS xaqiiqdiina waxaan ku tahay qeybiso arkaan fursad Ted Cruz waayo, "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fda04280-2b0d-40e2-951a-b4c7f3c89089",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " shaqooyinkeenna waxaan ahay Ted Cruz oo waan ansixin fariin this "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

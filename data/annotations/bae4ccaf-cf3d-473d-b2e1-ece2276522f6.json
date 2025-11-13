@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "et",
+  "annotations": [
+    {
+      "uuid": "99e801cc-b5c0-4e20-b1d5-72e7c9876b0a",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump rekord toetama ja kaitsma Pereplaneerimise valitsuse rahastatud "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2825406e-3cac-4b80-b042-d20429f219eb",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " tervishoiu lase ebaseadusliku välismaalastele võtta meie töökohad "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "db9aa493-4d24-45ad-9bb3-30c04124ab30",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kes otsib välja meile veokijuhtide ja terase kohta "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8c0f58d2-6979-44b0-8edf-bdda3ddaf6e1",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mehaanika on näinud oma palgad ei kasva, samas kui elukallidus tõuseb, kuna "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8dcc5f2a-c111-4063-b76d-d6375a8a6955",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " president "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e3126fe1-9625-4d15-9de5-5dd978c84161",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare on tagasit~ombajad reguleerijad ja siis astume lihtsa proportsionaalse tulumaksu ja "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6c6686dd-d35f-4157-b18c-34edd89c3f84",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Kaotada IRS tegelikult toimub me jääme näevad võimalust Ted Cruz eest "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f334feff-8ecc-4a13-854f-df995bcd2a15",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " meie töökohad ma olen Ted Cruz ja toetan seda postitust "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

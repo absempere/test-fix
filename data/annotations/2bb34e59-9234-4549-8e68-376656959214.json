@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "ig",
+  "annotations": [
+    {
+      "uuid": "cddb3340-e887-44c7-8903-c5fdf2639cff",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald trump ndekọ support ma na-agbachitere Planned Parenthood ochichi-kwụrụ ụgwọ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1b9d554a-3cf4-4c71-aeb2-6a5027fc3cb7",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ike na-elekọta ka iwu na-akwadoghị ọbịa buru anyị ọrụ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fbb0f0cd-47e4-4f43-8e14-787e231a3a09",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " onye na-achọ anyị na-anya gwongworo na ndị steelworkers na "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d0ecf189-c570-49fa-af95-f99d50dc8ec6",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " arụzi ụgbọala hụrụ ha ụgwọ ọrụ ha agaghị na-eto eto mgbe na-eri nke dị ndụ na-aga dị "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6556747a-ced0-4bde-9574-12095f71e32b",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " president "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a28a9e5b-28a0-42f4-99b3-1c6564e58c8c",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare on pullbacks ndị regulators na anyị ga-agafe a dị mfe ewepụghị tax na "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0c3f8376-411c-47c1-878d-5bd017dbc377",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kwusi IRS n'ezie na-aga anyị agbarapụ hụ ohere Ted Cruz maka "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "df658efc-8231-48b6-a4a8-e779c23c8e09",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " anyị ọrụ m Ted Cruz na m anabata ozi "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

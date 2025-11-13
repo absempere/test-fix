@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "my",
+  "annotations": [
+    {
+      "uuid": "b5c806a5-80db-4700-a71a-6e0e2cd384aa",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump ရဲ့စံချိန်ထောက်ခံမှုနှင့်စီမံကိန်းမိဘ၏အစိုးရငွေကြေးထောက်ပံ့မှုခံရတဲ့ကာကွယ် "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f8db93e0-039a-451e-96f9-fb168682aebe",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ကနျြးမာရေးစောင့်ရှောက်မှုတရားမဝင်ဂြိုလ်သားကျွန်တော်တို့ရဲ့အလုပ်အကိုင်များကိုယူပါစေ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b4c054f8-6447-43ec-aafe-c4f13863f740",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " အဘယ်သူသည်ငါတို့အဘို့အတွက်ထရပ်ကားယာဉ်မောင်းများနှင့် steelworkers ထွက်ရှာဖွေနေင် "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b5b72e62-557e-4c0f-bbe2-494f2d7d8e13",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " စက်ပြင်နေထိုင်မှုကုန်ကျစရိတ်အဖြစ်တက်နေစဉ်တွင်၎င်းတို့၏လုပ်အားခမကြီးထွားမြင်ကြပြီ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bb845305-1124-4900-b570-8915230e7012",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " သမတ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "36ec2ae2-2cbf-4371-b8ab-dd255803b42e",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " pullbacks အအားပြိုင်မှုအပေါ် Obamacare နှင့်ကျွန်တော်တစ်ဦးရိုးရှင်းသောပြားချပ်ချပ်အခွန်သွားပါမည်ဟုနှင့် "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "914e5502-c3ad-4aae-a4e9-0e9dbe29666c",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " IRS ကိုတကယ်ကျွန်တော့်ဖျက်သိမ်းပြီးအဘို့အခွင့်အလမ်း Ted Cruz ့မြင်ရပါတယ် "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bec2092b-6779-48d6-aa3a-36496aa7bf0c",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ကျွန်တော်တို့ရဲ့အလုပ်အကိုင်ငါ Ted Cruz ရယ်ငါသည်ဤသတင်းစကားကိုအတည်ပြု "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

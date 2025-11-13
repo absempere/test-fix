@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "ml",
+  "annotations": [
+    {
+      "uuid": "23a14d88-db64-40cb-b4bf-5c0bc1f480cd",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ഡൊണാൾഡ് ലളിത റെക്കോർഡ് പിന്തുണ ആസൂത്രിത മക്കളെ ന്റെ സർക്കാർ ഫണ്ടുകൾ പാലിച്ചു "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4fd5423a-7f77-492c-94c9-d7de7daab006",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ആരോഗ്യ അനധികൃത അന്യഗ്രഹ ഞങ്ങളുടെ ജോലികൾ എടുക്കേണം "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "adcc7403-c43b-4cd6-8cfe-16602a536c84",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ആർ ട്രക്ക് ഡ്രൈവർമാരെ steelworkers നമുക്കുവേണ്ടി നോക്കി പറ്റി "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3ccb8679-0159-455a-bb94-3ca136851cb4",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " മെക്കാനിക്സിന്റെ ജീവനുള്ളവരുടെ ചെലവ് പൊങ്ങുന്നു അവരുടെ വേതനം വളരാത്തതിനാൽ കണ്ടിരിക്കുന്നു "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "daa9825e-ce31-426e-9176-193c62f3fa9c",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " പ്രസിഡന്റ് "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a3efbeb9-c25f-4e24-9734-e18b1506e314",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " pullbacks നിയന്ത്രണ ന് ഷേര്ഷ ഞങ്ങൾ ലളിതമായ ഫ്ലാറ്റ് നികുതി കടന്നു പോകും ഒപ്പം "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "99cfcde3-95ad-45b8-bdb1-af7043203096",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ഐ.ആർ.എസ് ശരിക്കും ഞങ്ങൾ നടക്കുന്നത് നിർത്തലാക്കാനുള്ള ജീവഭാഷകൊണ്ട് ആണെങ്കിൽ അവസരം ടെഡ് ക്രൂസ് കാണുന്നു "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2457729c-0a61-4c33-93f0-6aacc7fc1e45",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ഞങ്ങളുടെ ജോലികൾ ഞാൻ ടെഡ് ക്രൂസ് സുഖമാണ് ഞാൻ ഈ സന്ദേശം അംഗീകരിക്കാൻ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "ky",
+  "annotations": [
+    {
+      "uuid": "77420ff0-7463-4337-b6fe-509164b1d1f7",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Доналд Трамп рекордго колдоо жана Planned Parenthood өкмөтү каржылаган коргоого "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5124ad5c-48c3-4d4e-a0cf-19c340addd35",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " саламаттыкты сактоо мыйзамсыз келгиндер биздин жумуш алсын "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ccf74d73-efda-459b-bb8e-7ca35f17e4ae",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Биз үчүн ким менен жүк ташуучу айдоочулардын жана steelworkers карап жатат "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "07ab0243-58fc-408f-ba4a-e5f7ed94c39c",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " механика жашоо наркы, ал эми адамдар эмес, алардын эмгек акысын көрдүк катары барат "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8d27f724-7459-48eb-9ad9-7617d64544cf",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " президент "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "70a045bc-e960-4e4e-afd8-7f5057e7b222",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " pullbacks жөнгө салуу жана биз кошула жөнөкөй жалпак салык өтүп кетет жана "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "19b06995-054b-4bbe-b0e0-9c9064593702",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " IRS чын эле биз жөнүндө бүтсө жатасыз жокко үчүн мүмкүнчүлүк Тед Круз көрүү "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3d04c3d1-d416-48d7-8739-cd0e3dbec74e",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Биздин жумуш Тед Круз эмесмин жана мен бул билдирүү бекитет "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

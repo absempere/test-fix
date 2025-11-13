@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "ku",
+  "annotations": [
+    {
+      "uuid": "f72d4286-9c2e-41f0-b783-2c3702600e79",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " piştgiriya record Donald Trump û parast Plankirî malbatî ya hikûmeta-fînanse "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "dff2ba78-d9c2-4c31-89ac-1a1a64a63ea9",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " lênêrîna nexweşan bila xerîbê qaçax bigirin karên me dike "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2969b905-6f19-4144-8137-d6a90f924cc7",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kî digerin ji bo me ji şofêrên kamyonan û metalurjiyê ku di "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e39f7098-7a74-4bfc-a5cb-14441fb41251",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mekanîka heqê wan mezin dibin, ne dîtiye dema ku mesrefa jîyanê up diçe wek "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "758ffd35-33d6-416c-a71f-3c2a7093067e",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " serok "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1de5dd4f-e290-4cd9-9126-5c56bbf07eda",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Grama bi ser pullbacks li nîzama û em dê baca daîreya sade derbas û "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "316d3a09-1c50-43fe-b032-08ac5102e053",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " rakirina IRS bi rastî jî li ser em ê yî dibînin derfeteke Ted Cruz ji bo "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "16ea1eae-8108-445b-97ed-ea8555c6a358",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " karên me dike ez Ted Cruz im û ez erê vê peyamê "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

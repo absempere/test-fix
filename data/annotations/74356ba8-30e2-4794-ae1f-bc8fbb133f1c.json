@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "mg",
+  "annotations": [
+    {
+      "uuid": "06f2b984-f838-45b9-94e9-ab8c7d49a6d0",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump fanohanana ny firaketana an-tsoratra sy ny Fitaizan-janaka voalamina hiaro ny governemanta-novatsian'ny "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "da8f4572-9025-4a68-a4a6-a956ba5ce8e6",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " fikarakarana ara-pahasalamana ara-dalàna vahiny aoka hitondra ny asa "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c24eb7ed-5992-4a36-8eca-0149efe1ace8",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " iza no mitady ho anay ny kamiao sy ny steelworkers ao amin'ny "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ba17f3e8-3e56-40cb-8306-f3caa7e85d33",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " haihetsika nahita ny karamany raha tsy mitombo ny vidim-piainana miakatra tahaka ny "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4599330b-6daa-4b26-a559-d466c91cdc5e",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Filoha "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8b7465de-36dc-412b-bd6d-7f1e510b9276",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare amin'ny pullbacks ny dalàna ary isika, fa handroso tsotra fisaka hetra sy "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "75e45d3a-d3bb-43d7-8ee5-26f9ea29bfa9",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " hanafoana ny IRS tena mitranga iany isika mahita fahafahana Ted Cruz for "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1b007355-6b68-4a30-a890-28b90bfb76f9",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ny asa Ted aho Cruz ary hanaiky ity hafatra ity "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

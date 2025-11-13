@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "0bb6ebb6-64ec-47bc-b737-2cd114faf906": {
+      "label": "Ogg Video",
+      "file_url": "https://archive.org/download/cruz-test/cruz-test.ogv",
+      "duration": 30.06,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-11-13T15:06:21.020Z",
+  "created_by": "absempere",
+  "label": "cruz-test",
+  "updated_at": "2025-11-13T15:06:21.020Z",
+  "updated_by": "absempere",
+  "rights_statement": ""
+}

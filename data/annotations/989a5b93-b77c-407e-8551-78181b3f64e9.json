@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "eu",
+  "annotations": [
+    {
+      "uuid": "70fe8a63-979a-4ee8-a98f-f72440853d13",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump en erregistroa laguntza eta defendatzeko Aurreikusitako gurasoen gobernuak finantzatutako "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8adf43d6-8954-415f-9b45-7d932f06b894",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " osasun-laguntza utzi legez kanpoko atzerritarrei Gure lanak "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ad675ea6-0d67-4787-a930-8b1ab3208260",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " nor begira guretzat kamioi gidariak eta Steelworkers du ere "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "68061fcd-c316-476c-8e8b-1553d6768d49",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mekanika ikusi dute euren soldatak ez hazten bizi-kostua igotzen bitartean "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d5134ae4-423d-49d8-aece-42a2c0314895",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " lehendakari "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "74eacabf-341f-4689-9635-c0faa3fe00aa",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare pullbacks erregulatzaile eta dugu lauak zerga sinple bat gainditu du, eta "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "427512d0-fb42-4703-9b97-0296c72eec87",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " indargabetzeko IRS benetan dugu aukera baten Ted Cruz joan botako ikusi "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5ec4d6c4-49a4-45f1-aeab-0a6f21eb6b41",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " gure lanpostu naiz Ted Cruz eta mezu hau onestea dut "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

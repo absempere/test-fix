@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "sm",
+  "annotations": [
+    {
+      "uuid": "28f324df-4a85-4d27-9e80-2b8359916cfa",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " lagolago faamaumauga a Donald pu ma puipuia a fuafuaina Faamatua malo-faatupeina "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5368378b-6195-476f-8331-43cec8e6a622",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " tausiga o le soifua maloloina ia tagata ese faasolitulafono ave lo tatou galuega "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "660363e5-4b57-478e-a251-389d936ea2ed",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " o lē o loo vaavaai atu mo i tatou le avetaavale loli ma le steelworkers i le "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5485360f-a7d7-4495-99e2-56d53330a305",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " inisinia vaai o latou totogi le tuputupu ae ao alu i luga le tau o le ola e pei ona "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ee2070ee-83ce-43c9-9ff7-86ae0ae11162",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " peresitene o le "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2c2893e1-8148-4a07-8100-41f1c96c27a7",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare i pullbacks le regulators ma o le a tatou oo i se lafoga mafolafola faigofie ma "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "46246716-f7d9-4867-88db-5570bcd30389",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " soloia i luga o le a moni lava le IRS loo tatou gonna vaai i se avanoa Ted Cruz mo "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0e283d07-151b-4517-8935-cc11ae33c644",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " tatou galuega ou te Ted Cruz ma ou faamaonia lenei savali "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

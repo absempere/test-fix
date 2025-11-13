@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "hi",
+  "annotations": [
+    {
+      "uuid": "05f759f3-bbd7-4e59-92d5-34adbce815c9",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " डोनाल्ड ट्रम्प का रिकार्ड समर्थन और बचाव योजनाबद्ध पितृत्व की सरकार से वित्त पोषित "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c99f882a-a15d-485b-96cd-17813511727c",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " स्वास्थ्य देखभाल अवैध विदेशी हमारी नौकरी ले चलो "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bb9b5b24-d89a-461b-92f7-f9ab620c2078",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " जो हमारे लिए में ट्रक ड्राइवरों और steelworkers बाहर लग रहा है "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3d805943-dad4-4c17-acf5-83add770f335",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " यांत्रिकी विकसित नहीं उनकी मजदूरी देखा है, जबकि जीवन यापन की लागत के रूप में ऊपर चला जाता है "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1dff27eb-5e0e-4831-8422-4cbe9ad9beb7",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " अध्यक्ष "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "45356d99-feed-4266-9d19-c41bb2ddd0b4",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare पर pullbacks नियामकों और हम एक सरल फ्लैट कर समाप्त हो जाएगी और "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "08d92195-7628-4a8f-96b5-a0be494618a0",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " आईआरएस वास्तव में एक अवसर टेड क्रूज़ के लिए जा रहे हैं हम पर जा रहा समाप्त देखना "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b9cb7c6b-b7a0-4742-a296-35464a92259f",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " अपने काम को मैं टेड क्रूज़ हूँ और मैं इस संदेश को मंजूरी "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

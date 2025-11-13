@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "fil",
+  "annotations": [
+    {
+      "uuid": "858dc855-48ae-4cb4-a88c-77dfafd1f431",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump ni record suporta at ipagtanggol Planned Parenthood ng pamahalaan-pinondohan "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8383ac4a-0c5f-4573-ab1a-70b3197da1bd",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " health care ipaalam ilegal na dayuhan kumuha ng aming mga trabaho "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "449750f2-2ca4-44b4-b1f5-4d36d557b056",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kung sino ang naghahanap out para sa amin ang driver ng trak at ang steelworkers sa "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "036791af-5be0-4a6a-b317-c9248a9a68c6",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mechanics nakita ang kanilang mga sahod hindi lumago habang ang gastos ng pamumuhay goes up bilang "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d84f7381-84ee-432d-be24-4f9673dfed35",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " presidente "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cfaece1f-7443-4a6d-9d16-67accb992b24",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare sa pullbacks ang regulators at kami ay pumasa sa isang simpleng flat buwis at "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "67e7f2cd-45e1-497d-bcfd-114c72dba430",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " bigyang-wakas ang IRS tunay na nangyayari kami ay gonna makita ang isang pagkakataon Ted Cruz para "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f4bba017-3270-4d7f-83ba-5783b6b40bf4",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ang aming mga trabaho ako Ted Cruz at aprubahan ko ang mensaheng ito "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

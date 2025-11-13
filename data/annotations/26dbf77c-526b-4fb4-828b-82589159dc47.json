@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "th",
+  "annotations": [
+    {
+      "uuid": "5daabddb-35c7-4bc4-983d-8d94501d18d8",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " สนับสนุนการบันทึกโดนัลด์ทรัมป์และปกป้องการวางแผนครอบครัวของรัฐบาล "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "15596a27-a5e3-4f13-9f89-39203565af7a",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " การดูแลสุขภาพให้คนต่างด้าวที่ผิดกฎหมายใช้งานของเรา "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cddec12e-310e-4405-bf38-bb89c27e5e69",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ผู้ที่มองออกไปสำหรับเราขับรถบรรทุกและเหล็กกล้าใน "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "241fe32f-e370-475a-9d66-d7f9c7437ca3",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " กลศาสตร์ได้เห็นค่าจ้างของพวกเขาได้เติบโตในขณะที่ค่าใช้จ่ายของที่อยู่อาศัยที่จะไปขึ้นเป็น "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f0770fc7-2e1a-4f74-bdd4-00e1669507a4",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ประธานาธิบดี "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a1e17c8c-4b99-48a3-8523-dfe612873783",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare บน pullbacks หน่วยงานกำกับดูแลและเราจะผ่านภาษีแบนเรียบง่ายและ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "acb95db9-cf6f-4b37-8244-52ee6473b949",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ยกเลิกกรมสรรพากรจริงที่เกิดขึ้นเราจะเห็นโอกาสที่เท็ดครูซ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9192d16b-dee0-4eee-8337-01aa8f3ccaf0",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " งานของเราฉันเท็ดครูซและฉันอนุมัติข้อความนี้ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

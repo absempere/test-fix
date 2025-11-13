@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "ht",
+  "annotations": [
+    {
+      "uuid": "87e8ccab-6307-42f3-8644-dcf33119cb2d",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " sipò dosye Donald Trump an ak defann planifikasyon familyal la gouvènman-finanse "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e49f0ead-30cf-4987-a276-6f13d48d1230",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " swen sante kite imigran ilegal pran travay nou an "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e218d1c7-4762-4e07-a4dd-d36a108e7792",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ki moun ki nan ap chèche soti pou nou chofè yo kamyon ak metalo yo nan la "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a1911ea1-9fdf-4862-bb85-da82209a7a62",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mekanik te wè salè yo pa grandi pandan y ap pri a nan k ap viv ap moute kòm "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c5d8cd58-336b-4dde-8f1b-967c7f0bd2eb",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " prezidan "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "90dde80e-391f-48bc-af16-73101b286423",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare sou pullbacks regilatè yo epi nou pral pase yon taks senp plat ak "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8171eeab-f2f2-4485-98ad-6e9db67e7e1a",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " aboli IRS la reyèlman ale sou nou ap pral wè yon opòtinite Ted Cruz pou "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2d28f1df-c4bd-4341-89fb-ebef117afe0a",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " travay nou mwen se Ted Cruz ak mwen apwouve mesaj sa a "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

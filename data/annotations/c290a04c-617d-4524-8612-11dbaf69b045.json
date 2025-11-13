@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "gu",
+  "annotations": [
+    {
+      "uuid": "3b847a3d-7558-4836-bab1-18e35f220ef3",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ડોનાલ્ડ ટ્રમ્પ રેકોર્ડ આધાર અને કોઈ રન નોંધાયો નહીં આયોજિત પેરેન્ટહૂડ સરકાર ભંડોળ પૂરું પાડવામાં "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3be84df2-eea5-4eca-a275-769eeec50cd1",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " આરોગ્ય સંભાળ ગેરકાયદે એલિયન્સ અમારી નોકરી લેવા દો "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cea4d012-5d50-4f9c-a6d5-48c086a4d4d8",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " જે અમારા માટે ટ્રક ડ્રાઈવરો અને steelworkers બહાર જોઈ છે "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "32391497-b477-4e53-a753-206c024239e7",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " મિકેનિક્સ વધવા નથી તેમના વેતન જોવા મળે છે જ્યારે વસવાટ કરો છો કિંમત તરીકે જાય છે "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9635f165-0058-4608-a241-6552cafc1101",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " પ્રમુખ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "83b77ab3-82cc-4607-8ff7-c93d8aeed81c",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare પર pullbacks નિયમનકારોએ અને અમે એક સરળ સપાટ કર પસાર કરશે અને "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d1b23118-da9f-4f8c-b75c-2112d6fcb7f0",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " આઇઆરએસ ખરેખર એક તક ટેડ ક્રુઝ માટે તેમ છો અમે જઈ નાબૂદ જોવા "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f9386311-379b-4ad2-9254-c783fb5ccf92",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " અમારી નોકરી હું ટેડ ક્રુઝ છું અને હું આ સંદેશ મંજૂર "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

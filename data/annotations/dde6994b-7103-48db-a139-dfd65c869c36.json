@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "jv",
+  "annotations": [
+    {
+      "uuid": "8431c2aa-550e-4f7f-9fb8-5a4029f8cf24",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " support rekaman Donald Trump lan defend Ngrancang Parenthood kang pemerintah-mbiayai "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3b4662f1-7177-428d-b95a-e103de335ea4",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " care kesehatan supaya alien ilegal njupuk kita proyek "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "671e6416-c100-43b0-b600-85bb014cdbfb",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " sing looking metu kanggo kita pembalap truk lan Steelworkers ing "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4a713686-72d9-4d42-ba0a-ccc3cc9e9de2",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mekanika wis katon bayaran sing ora tuwuh nalika biaya urip dadi munggah minangka "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5212feea-d32e-4599-8dd8-4e3f8e131831",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " presiden "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5cd33ae1-ddd2-4886-a213-ca4cc797e2ab",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare ing pullbacks aturan lan kita bakal pass tax flat prasaja lan "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5232211f-0a30-4a42-a636-6ba08a322ec4",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ngilangi IRS tenan arep ing kita lagi badhe ndeleng kesempatan Ted Cruz kanggo "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7c98ced0-699b-42da-9a0d-7d4ea6f94b1e",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kita proyek Aku Ted Cruz lan aku sarujuk pesen iki "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

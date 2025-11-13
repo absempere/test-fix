@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "kn",
+  "annotations": [
+    {
+      "uuid": "f6af603f-52ca-4dcc-85fa-59a2c2eb92e9",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್ ದಾಖಲೆಯನ್ನು ಬೆಂಬಲ ಮತ್ತು ರಕ್ಷಿಸಲು ಯೋಜಿಸಿದ ಪಿತೃತ್ವ ನ ಸರಕಾರದಿಂದ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f01af050-50b7-4af5-b2ed-7d98653d88a8",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ಆರೋಗ್ಯ ಅಕ್ರಮ ವಿದೇಶಿಯರು ನಮ್ಮ ಉದ್ಯೋಗಗಳು ನೋಡೋಣ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a3894af0-48e1-4507-b6e9-53ac9e29c0fa",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ಯಾರು ಟ್ರಕ್ ಚಾಲಕರು ಸ್ಟೀಲ್ ವರ್ಕರ್ಸ್ ನಮಗೆ ಔಟ್ ಹುಡುಕುತ್ತಿದ್ದಳು "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a545b72b-5db5-42f8-9a95-af50cbd2673e",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ದೇಶ ವೆಚ್ಚ ಅಪ್ ಹೋಗುತ್ತದೆ ಯಂತ್ರ ಅಲ್ಲ ಬೆಳೆಯಲು ತಮ್ಮ ವೇತನಗಳನ್ನು ಕಂಡ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "151d86f4-4ab0-4e54-b597-66e1a4c1c5e2",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ಅಧ್ಯಕ್ಷ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8e420231-7733-4ded-be20-122b23510af1",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " pullbacks ನಿಯಂತ್ರಕರು ಮೇಲೆ Obamacare ಮತ್ತು ನಾವು ಸರಳ ಫ್ಲಾಟ್ ತೆರಿಗೆ ಪಾಸ್ ಮತ್ತು "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3f7f6a25-c915-4981-8fe2-4f4026061b95",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ಐಆರ್ಎಸ್ ನಿಜವಾಗಿಯೂ ನಾವು ನಡೆಯುತ್ತಿದೆ ರದ್ದುಪಡಿಸುವಂತೆ ಗೊನ್ನಾ ಮಾಡುತ್ತಿದ್ದೇವೆ ಅವಕಾಶ ಟೆಡ್ ಕ್ರೂಜ್ ನೋಡಿ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "99017126-1c21-4982-92d5-927fbef69767",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ನಮ್ಮ ಉದ್ಯೋಗಗಳು ನಾನು ಟೆಡ್ ಕ್ರೂಜ್ ನಾನು ಮತ್ತು ನಾನು ಈ ಸಂದೇಶವನ್ನು ಅನುಮೋದಿಸಲು "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

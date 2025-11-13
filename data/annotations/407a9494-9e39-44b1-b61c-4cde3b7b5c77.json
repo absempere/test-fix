@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "ka",
+  "annotations": [
+    {
+      "uuid": "3c78f1e7-001c-49ce-b7c6-236b2059e0d7",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " დონალდ ტრამპის ჩანაწერი შეუწყოს და დაიცვას დაგეგმილი Parenthood მთავრობის მიერ დაფინანსებული "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "533ae1ce-0196-4d56-953f-0771209aeaea",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ჯანდაცვის მიადევნე უკანონო უცხოელთა მიიღოს ჩვენი სამუშაო "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4e90ac1d-07d7-4439-8d5b-44fcef86741a",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ვინც ეძებს ჩვენთვის სატვირთო მძღოლები და steelworkers წელს "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0d62a7da-75e7-442a-90f4-c4d24b3130cc",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " მექანიკის მინახავს მათი ხელფასები არ იზრდება, ხოლო საარსებო მიდის, როგორც "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e52988c3-01f8-45c4-8be6-26f21a68ced2",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " პრეზიდენტი "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "698d50f9-2490-4eed-8440-1962fc459af6",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare on pullbacks რეგულატორები და ჩვენ გაივლის მარტივი ბინა საგადასახადო და "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "09b77426-f943-4f62-bb91-935929489bde",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " გაუქმება IRS სინამდვილეში ჩვენ კარგად ვხედავთ შესაძლებლობას ტედ Cruz for "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "77fce877-5828-488a-af7a-c3a52c29549d",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ჩვენი სამუშაო ვარ ტედ Cruz და მე კმაყოფილი ვარ ამ გაგზავნა "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "uk",
+  "annotations": [
+    {
+      "uuid": "024d49e1-88c6-48c5-a470-85e5de051c11",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " запис підтримка Дональда Трампа і захищати Плановане батьківство в фінансується урядом "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e6f44e95-3c33-4b2b-8e49-34fb3a63818a",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " охорону здоров'я нехай нелегали приймають наші робочі місця "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "604f0aca-74a5-46af-8135-1f9d5c7d5c83",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " хто шукає для нас водіїв вантажівок і сталеварів в "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "19e0dcd3-630d-4716-9ff9-2a00533310fa",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " механіки бачили зарплату не ростуть, а вартість життя йде вгору, як "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d27b8509-d921-48ae-b806-ee203b388aa1",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " президент "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "21be8b9a-1967-4647-81bb-193f4a99bda5",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare на відкатах регуляторів, і ми будемо передавати простий і плоский податок "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "38af404c-dd8d-4223-aef2-511c4dad24f3",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " скасувати IRS відбувається насправді ми будемо бачити можливість Ted Cruz для "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "70c82c0d-5d0e-403b-a2bd-4b5062b236d5",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " наші робочі місця я Тед Круз і я схвалюю це повідомлення "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

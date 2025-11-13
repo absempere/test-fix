@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "mi",
+  "annotations": [
+    {
+      "uuid": "16d9236e-b433-4fad-8977-525f219e39ec",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " tautoko record Donald Trump o ka tiakina utua-kāwanatanga whakaritea metua o "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bef13214-49bc-42e6-a3c1-fc9baf935f76",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " tiaki hauora kia tautangata ture tango i to tatou mahi "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "432eab65-57b0-457f-a1a4-adb504c2b835",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " nei ngā titiro atu mo tatou i nga taraiwa taraka me nga steelworkers i te "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "45326b68-6280-4e78-9dfa-174672ba5e47",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Kua kite rehe ratou utu kore tupu i te utu o te ora rite haere ake "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "84a08115-db4e-4765-a990-fc53488fb4d7",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " peresideni "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "027f51a0-112b-4645-8cbc-d1c78f835a34",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare i runga i pullbacks te tauwehe me matou e haere i te tāke flat ohie me "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b7026636-9f1a-44e0-b5ac-05c2b23b9aa6",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " whakakahore haere tino te IRS ki tatou e whaikupu kite ha faingamālie Ted Cruz hoki "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "53bef2ea-e522-49cd-8448-44133227e722",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " tatou mahi ahau Ted Cruz me whakapai ana ahau i tenei karere "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

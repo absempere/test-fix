@@ -1,0 +1,135 @@
+{
+  "event_id": "09332117-5fe0-40be-94a1-ddd28b9e2630",
+  "source_id": "0bb6ebb6-64ec-47bc-b737-2cd114faf906",
+  "set": "tg",
+  "annotations": [
+    {
+      "uuid": "3efdf019-149b-405e-abc6-84de02fad210",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " дастгирии сабти Доналд сур ва дифоъ Банаќшагирии Волидайнї ҳукумат маблағгузорӣ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e91fe488-e09f-48aa-8650-584621b62a09",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " тандурустї бигзор ғарибон ғайриқонунӣ гирифтани љойњои мо "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5789424a-4fdb-4bc1-987c-3d2dd6389d86",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ки Русия дар ҷустуҷӯи берун барои мо ронандагон мошини ва steelworkers дар "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "83877a97-0971-4949-9c4b-b32cb90a1cdd",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Механикаи музди мењнати онњо ба воя нест, дид дар ҳоле, ки арзиши зиндагӣ боло равад, чун "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "95d8abb3-a585-4214-b91a-ebf5b75e21a9",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " президент "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "efd504d3-25db-425a-88db-4e786ac2ad76",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare оид ба pullbacks ба танзимкунанда ва мо як андози ҳамвор оддӣ мегузаранд ва "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f2f50b9f-dd68-4193-bdb3-e552146d25a3",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " бекоркунии ШС дар ҳақиқат дар бораи мо Гона ҳатто дидани имконияти Тед Круз барои "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a840b1cc-9a3e-4c70-838c-2af398add50f",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " кори худро ман Тед Круз дорам ва ман тасдиқ ин паём "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}
